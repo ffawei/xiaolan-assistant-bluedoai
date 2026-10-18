@@ -6,7 +6,19 @@
 
 小蓝助手 Blue 是自研的 Windows 执行型 AI 智能体。它可以拆解多步骤任务，编写和运行脚本，操作支持的应用与网站，并把文件、脚本和处理记录留在项目目录中，方便检查和修改。结合 MuMu 安卓模拟器，小蓝还可以通过 ADB 操作安卓应用，将电脑端与安卓端的工作接起来。
 
-[开始使用](https://www.bluedoai.com/tools/) · [产品介绍](https://www.bluedoai.com/legal/product-overview/) · [模型与价格](https://www.bluedoai.com/model-plaza) · [企业服务](https://www.bluedoai.com/enterprise/) · [English](README.en.md)
+[下载 Windows 版](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases/latest) · [产品介绍](https://www.bluedoai.com/legal/product-overview/) · [模型与价格](https://www.bluedoai.com/model-plaza) · [企业服务](https://www.bluedoai.com/enterprise/) · [English](README.en.md)
+
+## 下载安装
+
+当前正式版本：**1.11.31（Windows）**。
+
+- [直接下载安装程序](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases/download/v1.11.31/xiaolan-1.11.31-setup.exe)
+- [最新发行页](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases/latest) · [所有版本](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases)
+- [官网与国内下载渠道](https://www.bluedoai.com/tools/)
+
+普通用户下载 `.exe` 安装程序即可。发行页的 `.blockmap` 和 `latest.yml` 是配套更新文件，`SHA256SUMS.txt` 用于校验下载结果。GitHub自动生成的“Source code”压缩包是本仓库文档，不是小蓝安装包。
+
+GitHub提供已公开发行文件的原样镜像，安装包已与原发行元数据核对。1.11.30作为历史版本保留；现有客户端自动更新地址保持原样。
 
 ## 哪些工作可以找小蓝
 
@@ -23,7 +35,7 @@
 
 ## 从一个任务开始
 
-1. 从[官网工具与下载页](https://www.bluedoai.com/tools/)获取小蓝助手，按当前版本说明安装并配置模型。
+1. 从[GitHub最新发行页](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases/latest)或[官网工具与下载页](https://www.bluedoai.com/tools/)获取小蓝助手，按当前版本说明安装并配置模型。
 2. 准备一个独立工作目录，放入可处理的资料，写清目标、输出格式和完成标准。
 3. 授权所需的应用与目录；需要登录的应用先完成登录。
 4. 让小蓝执行任务，检查输出文件；未完成项保留原因，再决定是否继续。

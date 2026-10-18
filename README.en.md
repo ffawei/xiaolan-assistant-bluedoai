@@ -4,7 +4,15 @@
 
 Xiaolan Assistant is a Windows AI agent for work that involves applications, websites, local files and scripts. It can break down a task, write and run scripts, and leave editable results in a project folder. Through ADB, it can also operate supported Android applications inside the MuMu emulator and connect those steps with Windows workflows.
 
-[中文介绍](README.md) · [Product](https://www.bluedoai.com/legal/product-overview-en/) · [Get started](https://www.bluedoai.com/tools/) · [Models and pricing](https://www.bluedoai.com/model-plaza)
+[中文介绍](README.md) · [Download for Windows](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases/latest) · [Product](https://www.bluedoai.com/legal/product-overview-en/) · [Models and pricing](https://www.bluedoai.com/model-plaza)
+
+## Download
+
+The current Windows release is **1.11.31**. [Download the installer](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases/download/v1.11.31/xiaolan-1.11.31-setup.exe), browse [all releases](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases), or use the [official download page](https://www.bluedoai.com/tools/).
+
+GitHub hosts unchanged copies of the existing public release files. Installer size and SHA-512 are checked against the original release metadata; each release includes a SHA-256 checksum list. Version 1.11.30 is retained as a historical release. Existing automatic update settings are unchanged.
+
+For normal installation, download the `.exe` file. The `.blockmap` and `latest.yml` files support updates. GitHub's generated “Source code” archives contain this documentation repository, not the desktop installer or client source code.
 
 ## Use cases
 
