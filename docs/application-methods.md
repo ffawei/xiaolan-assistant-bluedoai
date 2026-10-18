@@ -11,6 +11,10 @@
 - CSDN：[ 用小蓝助手做批量数据处理：交付脚本前，先约定输入与验收 ](https://blog.csdn.net/ffawei/article/details/168334323)
 - 微博：[ 跨三个应用才能做完的工作，怎么交给小蓝助手？ ](https://weibo.com/ttarticle/p/show?id=2309405355342791311427)
 
+- [文件都发齐了，为什么还交不了差？小蓝助手的资料交接方法](project-handoff.md)
+- [研发记录分散在几张表里，小蓝助手怎样把资料接起来？](rd-records.md)
+- [图片改好了，任务却没交完：小蓝助手怎样接续PS与资料整理](ps-cross-app-delivery.md)
+
 更多任务模板：[工业工艺与研发](../examples/industrial-rd.md)、[PS图片处理](../examples/photoshop-images.md)、[跨应用资料汇总](../examples/cross-app-work.md)。
 
 产品与下载：[小蓝助手官网](https://www.bluedoai.com/legal/product-overview/) · [Windows安装包](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases/latest)
