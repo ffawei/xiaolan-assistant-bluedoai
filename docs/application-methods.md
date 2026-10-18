@@ -31,6 +31,10 @@
 
 - 公众号：[ 文件都发齐了，为什么还交不了差？小蓝助手的资料交接方法 ](https://mp.weixin.qq.com/s?__biz=Mzg5Njc3MDQ2MA==&mid=2247483819&idx=5&sn=5fba50a0cdb7cd59690c72737c2ee66f&chksm=c07d4958f70ac04e21c52140a0d517416941435e47facebae1e5db3ebe09d312066aa4c0e8ad#rd)
 
+- [AI把文件做出来了，交给同事前还差哪一步？](file-delivery-checklist.md)
+- [资料在安卓应用里，工作在Windows上：小蓝助手怎样接续MuMu任务](mumu-cross-app-method.md)
+- [CSV合并后少了几行，先别让AI再写一遍](csv-missing-records.md)
+
 更多任务模板：[工业工艺与研发](../examples/industrial-rd.md)、[PS图片处理](../examples/photoshop-images.md)、[跨应用资料汇总](../examples/cross-app-work.md)。
 
 产品与下载：[小蓝助手官网](https://www.bluedoai.com/legal/product-overview/) · [Windows安装包](https://github.com/ffawei/xiaolan-assistant-bluedoai/releases/latest)
