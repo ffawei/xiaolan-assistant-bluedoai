@@ -16,6 +16,7 @@ For normal installation, download the `.exe` file. The `.blockmap` and `latest.y
 
 ## Use cases
 
+- Industrial process and R&D work: organizing process documents and experiment records, running data-processing scripts, and reviewing requirement or document changes.
 - Photoshop image processing with explicit size, format and visual requirements.
 - Android application operations through MuMu and Android Debug Bridge (ADB).
 - Saving permitted video materials and organizing titles, descriptions and source links.
@@ -23,6 +24,8 @@ For normal installation, download the `.exe` file. The `.blockmap` and `latest.y
 - Combining website content, Android app content and local files into editable deliverables.
 
 Task outcomes depend on the installed application versions, permissions, selected model and available inputs. Start with a small sample and inspect the results. These are supported directions, not a guarantee that every task or application can be automated.
+
+Xiaolan Assistant has manufacturing customer use cases. Enterprises can discuss applications for their own process documentation, R&D tasks and existing workflows, including local deployment and technical support. Process parameters, equipment actions, safety and product-performance conclusions require review by the responsible professionals.
 
 ## Guides and task templates
 
