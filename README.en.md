@@ -44,3 +44,11 @@ This repository contains product documentation and task templates, not the deskt
 
 Website: <https://www.bluedoai.com/>  
 Contact: <blue@bluedoai.com>
+
+## Industrial process and R&D task template
+
+Use the [industrial process and R&D template (Chinese)](examples/industrial-rd.md) to organize source documents, compare versions and process test records using approved rules. It includes source tracing, script delivery and checks for the responsible engineers. This is an adaptable task template, not a customer case report.
+
+## Product and media kit
+
+[Product descriptions, FAQ and enterprise materials (Chinese)](media-kit/README.md) · [Download the media kit](media-kit/bluedoai-promotion-20261018-v2.zip?raw=true)

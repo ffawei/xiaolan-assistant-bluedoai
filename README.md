@@ -49,6 +49,7 @@ GitHub提供已公开发行文件的原样镜像，安装包已与原发行元�
 
 可以从这几份任务模板开始：
 
+- [小蓝助手：工业工艺与研发资料处理](examples/industrial-rd.md)
 - [小蓝助手：视频与文字资料整理](examples/video-materials.md)
 - [小蓝助手：Photoshop 图片处理](examples/photoshop-images.md)
 - [小蓝助手：跨应用资料汇总](examples/cross-app-work.md)
@@ -76,3 +77,7 @@ Photoshop 需要用户自行安装和合法使用。图片处理任务要写明�
 
 官网：<https://www.bluedoai.com/>  
 企业邮箱：<blue@bluedoai.com>
+
+## 产品与推广资料
+
+[查看产品介绍、FAQ与企业服务资料](media-kit/README.md) · [下载正式推广文案包](media-kit/bluedoai-promotion-20261018-v2.zip?raw=true)
