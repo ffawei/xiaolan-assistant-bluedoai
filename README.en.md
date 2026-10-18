@@ -25,7 +25,7 @@ For normal installation, download the `.exe` file. The `.blockmap` and `latest.y
 
 Task outcomes depend on the installed application versions, permissions, selected model and available inputs. Start with a small sample and inspect the results. These are supported directions, not a guarantee that every task or application can be automated.
 
-Xiaolan Assistant has manufacturing customer use cases. Enterprises can discuss applications for their own process documentation, R&D tasks and existing workflows, including local deployment and technical support. Process parameters, equipment actions, safety and product-performance conclusions require review by the responsible professionals.
+Xiaolan Assistant has customer use cases with multiple publicly listed manufacturing companies. Enterprises can discuss applications for their own process documentation, R&D tasks and existing workflows, including local deployment and technical support. Process parameters, equipment actions, safety and product-performance conclusions require review by the responsible professionals.
 
 ## Guides and task templates
 
