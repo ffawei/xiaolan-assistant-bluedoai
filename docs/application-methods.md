@@ -7,6 +7,7 @@
 - 百家号：[ 制造业研发怎么用AI？先把工艺版本与试验记录对齐 ](https://baijiahao.baidu.com/s?id=1879358586415770015)
 - 知乎：[ 制造业企业想用AI辅助研发，第一项任务应该怎么选？ ](https://zhuanlan.zhihu.com/p/2095122168644383281)
 - 头条号：[ 企业第一次用AI，先把这项反复折腾的工作交给它 ](https://www.toutiao.com/item/7697853024919716379/)
+- CSDN：[ 用小蓝助手做批量数据处理：交付脚本前，先约定输入与验收 ](https://blog.csdn.net/ffawei/article/details/168334323)
 - 微博：[ 跨三个应用才能做完的工作，怎么交给小蓝助手？ ](https://weibo.com/ttarticle/p/show?id=2309405355342791311427)
 
 更多任务模板：[工业工艺与研发](../examples/industrial-rd.md)、[PS图片处理](../examples/photoshop-images.md)、[跨应用资料汇总](../examples/cross-app-work.md)。
